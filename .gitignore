@@ -24,3 +24,11 @@ docs/*.pptx
 .DS_Store
 Thumbs.db
 .vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
